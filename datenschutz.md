@@ -3,14 +3,14 @@
 # Inhaltsverzeichnis der Datenschutzerklärung
 
 ## I. Allgemeine Informationen
-1. [Über uns als Verantwortliche](#informationen-über-uns-als-verantwortliche)
-2. [Grundlegende Informationen zur Datenverarbeitung](#informationen-zur-datenverarbeitung)
+1. [Über uns als Verantwortliche](#i-informationen-über-uns-als-verantwortliche)
+2. [Grundlegende Informationen zur Datenverarbeitung](#grundlegende-informationen)
 
 ## II. Ihre Rechte
-1. [Rechte der Nutzer und Betroffenen](#rechte-der-nutzer-und-betroffenen)
+1. [Rechte der Nutzer und Betroffenen](#ii-rechte-der-nutzer-und-betroffenen)
 2. [Widerrufsrecht](#widerrufsrecht)
 3. [Beschwerderecht](#beschwerderecht)
-
+   
 ## III. Datenerfassung auf unserer Website
 1. [Cookies](#cookies)
    - Sitzungs-Cookies
