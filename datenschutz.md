@@ -4,7 +4,8 @@
 
 ## I. Allgemeine Informationen
 1. [Über uns als Verantwortliche](#i-informationen-über-uns-als-verantwortliche)
-2. [Grundlegende Informationen zur Datenverarbeitung](#grundlegende-informationen)
+2. [Grundlegende Informationen zur Datenverarbeitung](#iii-informationen-zur-datenverarbeitung)
+
 
 ## II. Ihre Rechte
 1. [Rechte der Nutzer und Betroffenen](#ii-rechte-der-nutzer-und-betroffenen)
