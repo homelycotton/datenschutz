@@ -9,8 +9,11 @@
 
 ## II. Ihre Rechte
 1. [Rechte der Nutzer und Betroffenen](#ii-rechte-der-nutzer-und-betroffenen)
-2. [Widerrufsrecht](#widerrufsrecht)
-3. [Beschwerderecht](#beschwerderecht)
+   - Recht auf Bestätigung und Auskunft
+   - Recht auf Berichtigung
+   - Recht auf Löschung
+   - Recht auf Datenübertragbarkeit
+   - Recht auf Beschwerde
    
 ## III. Datenerfassung auf unserer Website
 1. [Cookies](#cookies)
