@@ -132,7 +132,7 @@ Der Datenschutzbeauftragte von Facebook kann über ein Kontaktformular erreicht 
 
 Die gemeinsame Verantwortlichkeit haben wir in einer Vereinbarung bezüglich der jeweiligen Verpflichtungen im Sinne der DSGVO geregelt. Diese Vereinbarung, aus der sich die gegenseitigen Verpflichtungen ergeben, ist unter dem folgenden Link abrufbar:
 
-https://www.facebook.com/legal/terms/page_controller_addendum
+[https://de-de.facebook.com/legal/terms/page_controller_addendum](https://de-de.facebook.com/legal/terms/page_controller_addendum)
 
 Rechtsgrundlage für die dadurch erfolgende und nachfolgend wiedergegebene Verarbeitung von personenbezogenen Daten ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse besteht an der Analyse, der Kommunikation sowie dem Absatz und der Bewerbung unserer Produkte und Leistungen.
 
@@ -150,7 +150,7 @@ Sollte der Nutzer mit dieser Verarbeitung nicht einverstanden sein, so besteht d
 
 Näheres zu den Verarbeitungstätigkeiten, deren Unterbindung und zur Löschung der von Facebook verarbeiteten Daten finden sich in der Datenrichtlinie von Facebook:
 
-https://www.facebook.com/privacy/explanation
+[https://www.facebook.de/privacy/explanation](https://www.facebook.de/privacy/explanation)
 
 Es ist nicht ausgeschlossen, dass die Verarbeitung durch die Meta Platforms Ireland Limited auch über die Meta Platforms, Inc., 1601 Willow Road, Menlo Park, California 94025 in den USA erfolgt.
 
