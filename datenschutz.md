@@ -128,7 +128,7 @@ Auf dieser Social-Media-Plattform sind wir gemeinsam mit der Meta Platforms Irel
 
 Der Datenschutzbeauftragte von Facebook kann über ein Kontaktformular erreicht werden:
 
-https://www.facebook.com/help/contact/540977946302970
+[https://www.facebook.com/help/contact/540977946302970](https://www.facebook.com/help/contact/540977946302970)
 
 Die gemeinsame Verantwortlichkeit haben wir in einer Vereinbarung bezüglich der jeweiligen Verpflichtungen im Sinne der DSGVO geregelt. Diese Vereinbarung, aus der sich die gegenseitigen Verpflichtungen ergeben, ist unter dem folgenden Link abrufbar:
 
